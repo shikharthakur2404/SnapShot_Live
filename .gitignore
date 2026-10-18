@@ -1,0 +1,8 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+id_rsa
+serviceAccount*.json
